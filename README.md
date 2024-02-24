@@ -29,9 +29,9 @@ I'm a software developer and an eternal student, learning programming since 2022
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zawarudobngdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zawarudobngdev&theme=aura_dark&hide=stars)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zawarudobngdev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zawarudobngdev&layout=compact&theme=aura_dark)
 
 
 ---
