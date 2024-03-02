@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" width="200" height="200" src="dog3.png">
+<img align="right" width="180" height="180" src="dog3.png">
 
 I'm Murilo Meranca, a software developer and an eternal student, learning programming since 2022. I'm fascinated by technology, with a special interest in game development.
 
