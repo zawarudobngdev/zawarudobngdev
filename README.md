@@ -4,11 +4,11 @@
 
 I'm Murilo Meranca, a software developer and an eternal student, learning programming since 2022. I'm fascinated by technology, with a special interest in game development.
 
-### Learning / Improving
+### Learning
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-### Main Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -51,9 +51,10 @@ I'm Murilo Meranca, a software developer and an eternal student, learning progra
 
 ### Connect with me
 
-[![Perfil DIO](https://img.shields.io/badge/-DIO%20Profile-30A3DC?style=for-the-badge)](https://web.dio.me/users/murilo_m_17570/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:murilo.m@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/murilo-meranca/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zawarudobngdev)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zawarudobngdev)](https://github.com/zawarudobngdev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-meranca/)](https://www.linkedin.com/in/murilo-meranca/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)](https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:murilo.m@hotmail.com)](mailto:murilo.m@hotmail.com)
+
 
 ---
