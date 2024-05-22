@@ -77,5 +77,6 @@ I'm Murilo Meranca, a software developer and an eternal student, learning progra
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)](https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:murilo.m@hotmail.com)](mailto:murilo.m@hotmail.com)
 
+<img width="25%" height="25%" src="pic1.jpg">
 
 ---
