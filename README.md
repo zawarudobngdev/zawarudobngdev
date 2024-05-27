@@ -70,8 +70,6 @@ I'm Murilo Meranca, a software developer and an eternal student, learning progra
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zawarudobngdev&layout=compact&theme=aura_dark)
 
----
-
 ### Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zawarudobngdev)](https://github.com/zawarudobngdev)
